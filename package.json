@@ -1,0 +1,5 @@
+{
+  "name": "bank-transfer-ledger-postgres",
+  "version": "1.0.0",
+  "private": true
+}
